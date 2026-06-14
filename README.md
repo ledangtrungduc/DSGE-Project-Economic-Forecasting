@@ -14,6 +14,7 @@ The core variables analyzed include:
 - **Inflation Rate:** Derived from the Consumer Price Index for All Urban Consumers.
 - **Interest Rate:** Effective Federal Funds Rate.
 
+The dataset was originally provided as part of the coursework materials for this empirical project, representing standard U.S. macroeconomic time series for the specified period.
 ## Methodology
 The project employs a dual approach, contrasting data-driven time series models with a theory-driven structural model:
 
