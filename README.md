@@ -1,7 +1,7 @@
 # Macroeconometric Forecasting with Time Series and DSGE Models
 
-**Author:** Le Dang Trung Duc
-
+**Author:** Le Dang Trung Duc  
+**Lecturer:** Prof. Michael Binder, PhD
 ## Overview
 This repository contains the code and report for an advanced macroeconometric forecasting project. The study evaluates and compares the forecasting performance of various time series models (ARMA, ARIMA, ARFIMA, VECM) against a structural New Keynesian Dynamic Stochastic General Equilibrium (NK-DSGE) model. The project focuses on predicting key U.S. macroeconomic indicators, analyzing both short-term (one-step ahead) and long-term (multi-step) forecasting horizons.
 
